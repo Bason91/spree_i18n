@@ -433,19 +433,19 @@ bg:
     credit_cards: Кредитни карти
     credit_owed: Дължима сума по кредит
     currency: Валута
-    currency_decimal_mark: Currency decimal mark
-    currency_settings: Currency Settings
-    currency_symbol_position: Put currency symbol before or after dollar amount?
-    currency_thousands_separator: Currency thousands separator
-    current: Current
+    currency_decimal_mark: Валутна десетична запетая
+    currency_settings: Валутни настройки
+    currency_symbol_position: Сложи символа за валута преди или след?
+    currency_thousands_separator: Валутен разграничител при хилядни
+    current: Сегашно
     current_promotion_usage: ! 'Current Usage: %{count}'
-    customer: Customer
-    customer_details: Customer Details
-    customer_details_updated: The customer's details have been updated.
-    customer_search: Customer Search
-    cut: Cut
+    customer: Клиент
+    customer_details: Клиентски данни
+    customer_details_updated: Данните на клиента са обновени
+    customer_search: Търсене на клиент
+    cut: Срежи
     dash:
-      jirafe:
+      jirafe: 
         app_id: App ID
         app_token: App Token
         currently_unavailable: Jirafe is currently unavailable. Spree will automatically connect to Jirafe once it is available.
@@ -454,49 +454,49 @@ bg:
         site_id: Site ID
         token: Token
       jirafe_settings_updated: Jirafe Settings have been updated.
-    date: Date
-    date_completed: Date Completed
+    date: Дата
+    date_completed: Дата завършена
     date_picker:
       first_day: 0
       format: ! '%Y/%m/%d'
       js_format: yy/mm/dd
-    date_range: Date Range
-    default: Default
-    default_meta_description: Default Meta Description
-    default_meta_keywords: Default Meta Keywords
-    default_seo_title: Default Seo Title
-    default_tax: Default Tax
-    default_tax_zone: Default Tax Zone
+    date_range: Интервал за данни
+    default: Дефолт
+    default_meta_description: Дефолтна мета дискрипция
+    default_meta_keywords: Дефолт мета ключови думи
+    default_seo_title: Дефолтни СЕО титли
+    default_tax: Дефолт данък
+    default_tax_zone: Дефолт данъчна зона
     delete: Изтрий
-    delivery: Delivery
-    depth: Depth
-    description: Description
-    destination: Destination
-    destroy: Destroy
-    discount_amount: Discount Amount
-    dismiss_banner: No. Thanks! I'm not interested, do not display this message again
-    display: Display
-    display_currency: Display currency
-    edit: Edit
-    editing_option_type: Editing Option Type
-    editing_payment_method: Editing Payment Method
-    editing_product: Editing Product
-    editing_promotion: Editing Promotion
-    editing_property: Editing Property
-    editing_prototype: Editing Prototype
-    editing_shipping_category: Editing Shipping Category
-    editing_shipping_method: Editing Shipping Method
-    editing_state: Editing State
-    editing_stock_location: Editing Stock Location
-    editing_stock_movement: Editing Stock Movement
-    editing_tax_category: Editing Tax Category
-    editing_tax_rate: Editing Tax Rate
-    editing_tracker: Editing Tracker
-    editing_user: Editing User
-    editing_zone: Editing Zone
-    email: Email
-    empty: Empty
-    empty_cart: Empty Basket
+    delivery: Доставка
+    depth: Дълбочина
+    description: Описание
+    destination: Дестинация
+    destroy: Унищожи
+    discount_amount: Отстъпка
+    dismiss_banner: Не, благодаря! Не се интересувам от това съобщение.
+    display: Покажи
+    display_currency: Покажи валута
+    edit: Редактирай
+    editing_option_type: Вида на редакция
+    editing_payment_method: Редактирай начина на плащане
+    editing_product: Редактирай продукт
+    editing_promotion: Редактирай промоция
+    editing_property: Редактирай прототип
+    editing_prototype: Редактирай прототип
+    editing_shipping_category: Редактирай доставна категория
+    editing_shipping_method: Редактирай начин за доставка
+    editing_state: Редактирай област
+    editing_stock_location: Редактирай локация на стока
+    editing_stock_movement: Редактирай движение на стока
+    editing_tax_category: Редактирай данъчна категория
+    editing_tax_rate: Редактирай данъчен процент
+    editing_tracker: Редактирай тракер
+    editing_user: Редактирай потребител
+    editing_zone: Редактирай зона
+    email: И-мейл
+    empty: Празно
+    empty_cart: Празна кошница
     enable_mail_delivery: Позволи изпращане по поща
     end: Край
     ending_in: Приключване в
@@ -698,48 +698,48 @@ bg:
       variant_deleted: Вариантът бе изтрит
       variant_not_deleted: Вариантът не можеше да бъде изтрит
     on_hand: Наличност
-    open: Open
-    open_all_adjustments: Open All Adjustments
-    option_type: Option Type
-    option_type_placeholder: Choose an option type
-    option_types: Option Types
-    option_value: Option Value
-    option_values: Option Values
-    optional: Optional
-    options: Options
-    or: or
+    open: Отвори
+    open_all_adjustments: Отвори всички промени
+    option_type: Тип опция
+    option_type_placeholder: Избери тип опция
+    option_types: Тип опции
+    option_value: Стойност на опцията
+    option_values: Стойности на опциите
+    optional : Незадължителен
+    options: Опции
+    or: Или
     or_over_price: ! '%{price} or over'
-    order: Order
-    order_adjustments: Order adjustments
-    order_details: Order Details
-    order_email_resent: Order Email Resent
-    order_information: Order Information
+    order: Поръчай
+    order_adjustments: Промяна на поръчката
+    order_details: Детайли на поръчката
+    order_email_resent: Имейлът за поръчката бе изпратен отново.
+    order_information: Информация за поръчката
     order_mailer:
       cancel_email:
-        dear_customer: Dear Customer,
-        instructions: Your order has been CANCELED.  Please retain this cancellation information for your records.
-        order_summary_canceled: Order Summary [CANCELED]
-        subject: Cancellation of Order
+        dear_customer: Уважаем клиент,
+        instructions: Вашата поръчка бе ОТМЕНЕНА. Моля запазете тази информация за вашия личен архив.
+        order_summary_canceled: Обща поръчка отменена
+        subject: Отказване на поръчка
         subtotal: ! 'Subtotal: %{subtotal}'
         total: ! 'Order Total: %{total}'
       confirm_email:
-        dear_customer: Dear Customer,
-        instructions: Please review and retain the following order information for your records.
-        order_summary: Order Summary
-        subject: Order Confirmation
+        dear_customer: Уважаем клиент
+        instructions:  Моля прегледайте и запазете информацията за вашата поръчка.
+        order_summary: Преглед на поръчката
+        subject: Потвърждаване на поръчката.
         subtotal: ! 'Subtotal: %{subtotal}'
-        thanks: Thank you for your business.
+        thanks: Благодарим Ви за вашата покупка!
         total: ! 'Order Total: %{total}'
-    order_not_found: We couldn't find your order. Please try that action again.
-    order_number: Order
+    order_not_found: Не успяхме да намерим вашата поръчка. Опитайте отново.
+    order_number: Поръчка
     order_populator:
       out_of_stock: ! '%{item} is out of stock.'
       selected_quantity_not_available: ! 'Selected quantity of %{item} is not available.'
-      please_enter_reasonable_quantity: Please enter a reasonable quantity.
-    order_processed_successfully: Your order has been processed successfully
+      please_enter_reasonable_quantity: Моля въведете друго количество
+    order_processed_successfully: Вашата поръчка бе обработена успешно.
     order_state:
-      address: address
-      awaiting_return: awaiting return
+      address: Адрес
+      awaiting_return: В очакване на връщане
       canceled: отказано
       cart: количка
       complete: завършено
@@ -755,7 +755,7 @@ bg:
     orders: Поръчки
     out_of_stock: Не е в наличност
     overview: Преглед
-    package_from: package from
+    package_from: Пакетът е от
     pagination:
       next_page: next page &raquo;
       previous_page: ! '&laquo; previous page'
@@ -774,15 +774,15 @@ bg:
     payment_processor_choose_link: our payments page
     payment_state: Статус на плащането
     payment_states:
-      balance_due: balance due
-      checkout: checkout
-      completed: completed
-      credit_owed: credit owed
+      balance_due: Баланс
+      checkout: Плащане
+      completed: завършено
+      credit_owed: дължимо
       failed: провалено
       paid: paid
-      pending: pending
-      processing: processing
-      void: void
+      pending: Изчакване
+      processing: Обработване
+      void: Откажи
     payment_updated: Плащането бе обновено
     payments: Плащания
     percent: Процент
@@ -890,7 +890,7 @@ bg:
     rma_number: RMA Number
     rma_value: RMA Value
     roles: Роли
-    rules: ПРавила
+    rules: Правила
     s3_access_key: Access Key
     s3_bucket: Bucket
     s3_headers: S3 Headers
